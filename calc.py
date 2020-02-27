@@ -1,9 +1,9 @@
 def add (x,y):
-    pass
+    x+y
 def substract (x,y):
-    pass
+    x-y
 def multiply (x,y):
-    pass
+    x*y
 def divide (x,y):
-    pass
+    x/y
 
